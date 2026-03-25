@@ -1,4 +1,4 @@
-#  Guía de Alquimía X3 (Enfoque en Transmutación)
+# Guía Ingeniería 1-406 (X3)
 
 Guía de ingeniería y ta, perfecta para subir hasta botas y manos, con esto no te van a joder en LOD ni BANE, como todas mis guías: Char lv 68, compra o farmea un poco más de cada material, y ta, no créditos la verdad, aunque vi guías de C&P y no sé a quien darle creditos. 
 
