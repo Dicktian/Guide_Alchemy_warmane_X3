@@ -1,14 +1,14 @@
 # Guía Joyería 1-375 (Súper gemas)
 
-Después de levearme a 3 chars (Priest, War y Shamy) al hilo, tuve que subirles joyería, en el proceso vi varias guías tanto en Warmane cómo en ÚltimoWow, y con esto pude hacer una lista: barata, completa y simple, doy créditos a MJ de ÚltimoWow y a Hodas de Warmane.
+Después de levearme 3 chars (Priest, War y Shamy) al hilo, tuve que subirles joyería, en el proceso vi varias guías tanto en Warmane cómo en ÚltimoWow, y con esto pude hacer una lista: barata, completa y simple, doy créditos a MJ de ÚltimoWow y a Hodas de Warmane por darme una idea para esta guía.
 
-El principal problema de ambas guías es que utilizan materiales caros, difíciles de conseguir y poco eficientes, en donde varias recetas apenas otorgan 3 o 6 puntos de habilidad, lo que ralentiza mucho el progreso, además, no solo se gasta una gran cantidad de oro en los materiales, sino también en aprender recetas del instructor que terminan siendo innecesarias a largo plazo.
+Y aunque el principal problema de ambas guías es que utilizan materiales caros y difíciles de conseguir en el servidor (por la competencia), y además poco eficientes porque varias recetas apenas otorgan 3 o 6 puntos de habilidad, lo que ralentiza mucho el progreso, y lo hace caro porque no solo gastas una gran cantidad de oro en los materiales, sino también en aprender recetas del instructor que terminan siendo innecesarias a largo plazo.
 
-Nota: Esta guía está enfocada en el leveo eficiente de joyería, priorizando materiales fáciles de conseguir y rutas optimizadas enfocada en alcanzar los 375 puntos de la habilidad, para usar las mega gemas, además algunas recetas deben adquirirse en la casa de subastas.
+¿Qué te ofrezco con está guía? Leveo rápido, posibiliad de vender en AH y si sigues mi guía de Ingeniería tambien tienes la posibilidad de levearlas juntas, te recomiendo levear hasta los 300p en El Exodar, y luego te vas a Dalaran.
 
 <h3 style="color:#B8860B;">Materiales Necesarios Mínimos</h3>
 
-Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmear un poco más de cada ítem, ya que algunas recetas pasan a estado amarillo y existe la posibilidad de no obtener puntos de habilidad en cada intento, esto ayuda a evitar viajes adicionales a la casa de subastas, cuando estes viendo los materiales y los puntos, verás que la guía no cuadra, eso es porque en algunas recetas puse mayores cantidades, ya que usaras lo resultante en otras recetas, por ejemplo: Engarce de Bronce,
+Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmear un poco más de cada ítem, ya que algunas recetas pasan a estado amarillo y existe la posibilidad de no obtener puntos de habilidad en cada intento, esto ayuda a evitar viajes adicionales a la casa de subastas, cuando estes viendo los materiales y los puntos, verás que la guía no cuadra, eso es porque en algunas recetas puse mayores cantidades, ya que usaras lo resultante en otras recetas, por ejemplo: Engarce de Bronce.
 
 <table>
   <tr>
