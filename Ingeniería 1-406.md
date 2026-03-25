@@ -4,7 +4,7 @@ Guía de ingeniería y ta, perfecta para subir hasta botas y manos, con esto no 
 
 Y obvio, está adaptada al mercado actual de Warmane y con tasas de farmeo.
 
-¿Por qué usar esta guía? Es rápida, barata, y todo está cerca, te recomiendo levear hasta los 300p en El Exodar junto a Joyería, ambas están cerca, tienes yunque en la zona, y aemás tienes la subasta cerca, luego de eso, te vas a Dalarand, esto es un win win.
+¿Por qué usar esta guía? Es rápida, barata, y todo está cerca, te recomiendo levear hasta los 300p en El Exodar junto a Joyería, ambas están cerca, tienes yunque en la zona, y además tienes la subasta cerca, luego de eso, te vas a Dalarand, esto es un win win.
 
 <h3 style="color:#B8860B;">Materiales Necesarios Mínimos</h3>
 
