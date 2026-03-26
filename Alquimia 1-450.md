@@ -1,8 +1,6 @@
-#  Guía de Alquimía 1-450 (Transmutación)
+#  Guía de Alquimía 1-450
 
 Tuve la brillante idea de crearme 10 trasmutadores, por lo que tuve que subirles la alquimia a 10 personajes a 450, está guía nace como una forma de automatizar el leveo, esto es una mejora a las guías de Zelta (2016) y Dagax (2019) considerando los multiplicadores actuales, además de ajustar algunas recetas por opciones más accesibles en la casa de subastas, el crédito corresponde a Zelta y Dagax.
-
-Como viste, esta guía está enfocada en la especialidad de transmutación, y te recomiendo contar con tu personaje al nivel 68 para poder acceder a la misión correspondiente.
 
 <h3 style="color:#B8860B;">Materiales Necesarios Mínimos</h3>
 
